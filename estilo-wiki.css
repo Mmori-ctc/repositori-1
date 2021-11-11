@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif
+}
+    .Biography{
+        background-color: blueviolet;
+        width: 75%;
+        display: inline-block;
+        font-size: 14px;
+        line-height: 1.6;
+    }
+    .sumary{  
+        display: inline-block;
+        vertical-align: top;
+    }
+    .sumary-table{
+        border: 2px solid rgb(83, 9, 9);
+        background-color: rgb(236, 234, 226);
+    }
+    .text-justify{
+        text-align: justify;
+    }
+   
+    

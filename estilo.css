@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(174, 241, 50);
+}
+
+
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: cyan;
+    width: 65px;
+    margin: 36px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 10px solid chocolate;
+    height: 150px;    
+    
+}
+
+.text-coral{
+    color: aquamarine;
+}
+#cabecera2{
+    color: blueviolet
+
+}
+.text-justify{
+    text-align: justify;
+}
+.text-center{
+    text-align: center ;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+} 
+p{
+    margin: 10px;
+}
+
+
+
+span{
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+div{
+    background-color: rgb(150, 53, 241);
+    border: 5px solid black;
+    border-radius: 6px; 
+    margin-bottom: 5px;
+}
+
+.caja-canciones{
+     width: 500px ; height: 200px;
+     border: 2px solid black ;
+     background-color:violet ;
+}
+.lineal{
+    width: 200px;
+    border-top: 6px dashed black;
+    border-right: 6px dashed black;
+}
+.caja{
+    border: 1px solid black;
+    margin-top: 100px ;
+    margin: bottom 100px; ;
+    margin: right 150px; ;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+.caja2{
+    border: 1PX solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.caja-c{
+    width: 300px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    outline: #4caf50 solid 10px;
+    padding: 20px;
+}
+h2{
+    text-decoration: overline;
+}
+h3{ 
+    text-decoration: line-through;
+}
+h4{
+   text-decoration: underline;
+}
+h5{
+    text-decoration: underline overline;
+}
+img{
+    float: center;
+} 

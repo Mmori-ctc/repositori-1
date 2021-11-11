@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+}
+nav{
+    /*outline: 1px solid darkviolet;*/
+}
+ul{
+    /*outline: 1px solid rgb(20, 134, 190);*/
+    line-height: 40px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #2e2e2a;
+    line-height: 40px;
+    overflow: auto;
+}
+li{
+    /*outline: 1px solid magenta;*/
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    /*outline: 1px solid salmon;*/
+    text-decoration: none;
+   display: inline-block;
+   color: #fff;
+}
+a:hover{
+    background-color: seagreen;
+    color: slateblue;
+}

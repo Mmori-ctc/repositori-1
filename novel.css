@@ -1,0 +1,58 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://www.picgaga.com/uploads/wallpaper/dark-academia-aesthetic-wallpapers/aXm9LMYSDEzT-dark-academia-aesthetic-for-desktop-background-pictures.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    /*outline: 1px solid darkviolet;*/
+    float: center;
+
+}
+ul{
+    /*outline: 1px solid rgb(20, 134, 190);*/
+    line-height: 20px;
+    padding: px;
+    margin: 5px;
+    background-color: #000000;
+    line-height: 40px;
+    overflow: auto;
+}
+li{
+    /*outline: 1px solid magenta;*/
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+.box{
+    float: right;
+    width: 25%;
+    height: 400px;
+    background-color: tomato;
+}
+a{
+    /*outline: 1px solid salmon;*/
+    text-decoration: none;
+   display: inline-block;
+   color: #fff;
+}
+a:hover{
+    color: darkred;
+}
+h1{
+    text-align: center;
+    color: rgb(187, 160, 109);
+    margin: 36px;
+    margin-bottom: 20px;
+    padding: 20px;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25;
+}
+.text-justify{
+    text-align: justify;
+}
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12;
+}
